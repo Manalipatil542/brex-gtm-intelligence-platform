@@ -1,0 +1,61 @@
+{
+  "total_leads": 500,
+  "total_mqls": 248,
+  "total_sqls": 112,
+  "total_opps": 63,
+  "total_won": 24,
+  "total_arr": 1062680,
+  "mql_rate": 49.6,
+  "win_rate": 4.8,
+  "by_source": [
+    {
+      "source": "Content/SEO",
+      "leads": 30,
+      "mqls": 9,
+      "won": 2,
+      "arr": 42485
+    },
+    {
+      "source": "Event/Conference",
+      "leads": 47,
+      "mqls": 20,
+      "won": 2,
+      "arr": 67721
+    },
+    {
+      "source": "Inbound Demo",
+      "leads": 125,
+      "mqls": 108,
+      "won": 6,
+      "arr": 315794
+    },
+    {
+      "source": "Outbound SDR",
+      "leads": 78,
+      "mqls": 15,
+      "won": 2,
+      "arr": 41010
+    },
+    {
+      "source": "Paid Google",
+      "leads": 50,
+      "mqls": 8,
+      "won": 1,
+      "arr": 37117
+    },
+    {
+      "source": "Paid LinkedIn",
+      "leads": 70,
+      "mqls": 17,
+      "won": 4,
+      "arr": 148946
+    },
+    {
+      "source": "Partner Referral",
+      "leads": 100,
+      "mqls": 71,
+      "won": 7,
+      "arr": 409607
+    }
+  ]
+}
